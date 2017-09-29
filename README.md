@@ -15,6 +15,11 @@ The required parameters are:
 
 Visual Studio
 
+## Built With
+
+* [EPPlus](https://github.com/JanKallman/EPPlus) - Excel spreadsheets generation
+* [NDesk.Options](https://www.nuget.org/packages/NDesk.Options) - Command line parsing
+
 ## Authors
 
 * **Amael BERTEAU**
